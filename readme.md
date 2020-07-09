@@ -3,8 +3,9 @@
 Tina Back Office
 
 How to run?
-php artisan serve
-
+```
+$ php artisan serve
+```
 it will run on https://localhost:8000 as default
 
 Demo version of Users, Computer resolution, Convenience Store
